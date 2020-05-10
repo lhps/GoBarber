@@ -12,9 +12,9 @@ Project being built along with Rocketseat's GoStack - <a href="https://rocketsea
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lhps/GoBarber?color=yellow">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/leopacciulli/HairShop?color=yellow">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/lhps/GoBarber?color=yellow">
   
-  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/leopacciulli/HairShop">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/lhps/GoBarber">
 
   <br>
 
@@ -30,7 +30,7 @@ Project being built along with Rocketseat's GoStack - <a href="https://rocketsea
 <br>
 
 ### 📝 About the project
-Hair Shop is an application for hairdressing salon, where hairdressers can register on the web application and can insert their employees and their schedules. Customers can register on the mobile application, being able to find employees who work on site and schedule the day and time to cut their hair.
+GoBarber is an application for barbers, where the barbers can register on the web application and can insert their employees and their schedules. Customers can register on the mobile application, being able to find employees who work on site and schedule the day and time to cut their hair.
 
 <div align="center">
   <img src="./frontend/src/assets/hairweb.gif" width="550px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,7 +100,7 @@ The Mobile was developed with React Native and TypeScript. For standardization a
 <br>
 
 ## 🏁 Starting the project
-Clone the project: `git clone https://github.com/leopacciulli/HairShop.git`
+Clone the project: `git clone https://github.com/lhps/GoBarber.git`
 
 <br>
 
